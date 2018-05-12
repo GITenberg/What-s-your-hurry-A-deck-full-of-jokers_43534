@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41532'
     url: http://www.gutenberg.org/2009/agents/41532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43534#What-s-your-hurry-A-deck-full-of-jokers
 gutenberg_issued: '2013-08-22'
 gutenberg_type: Text
 identifiers:
