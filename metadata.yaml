@@ -1,0 +1,24 @@
+_repo: What-s-your-hurry-A-deck-full-of-jokers_43534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Niblo, George
+    gutenberg_agent_id: '41532'
+    url: http://www.gutenberg.org/2009/agents/41532
+description: ''
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+title: What's your hurry? A deck full of jokers
+url: http://www.gutenberg.org/ebooks/43534
